@@ -1,4 +1,4 @@
-### Bienvenid@ 👋, 
+### Bienvenid@ 👋...
 ____________________________________________________________________________
 
 <p><img align="right" src="https://media.giphy.com/media/eH4qxdqDul3ZCAXg6i/giphy.gif" width="340" heigth="340" alt="adam-pw"/></p>
