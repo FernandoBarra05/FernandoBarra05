@@ -1,7 +1,7 @@
 ### 
 ____________________________________________________________________________
 
-<p><img align="left" src="https://media.giphy.com/media/eH4qxdqDul3ZCAXg6i/giphy.gif" /></p>
+<p><img align="left" src="https://media.giphy.com/media/eH4qxdqDul3ZCAXg6i/giphy.gif" width="330" heigth="330" alt="adam-pw"/></p>
 
 
 <p align="right"> 
