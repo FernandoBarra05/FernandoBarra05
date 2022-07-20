@@ -1,18 +1,17 @@
 ### 
 
 <p><img align="right" src="https://media.giphy.com/media/eH4qxdqDul3ZCAXg6i/giphy.gif" /></p>
-
+#____________________________________________________________________________________________________________
 <p align="right"> 
 Bienvenid@ 👋, mi nombre es Fernando Barra, y soy un estudiante de la carrera de Ingenieria de Telecomunicaciones en la Universidad Nacional de San Agustin de Arequipa. Te doy la bienvenida a mi espacio personal.
 
 
     - 📫 Contáctame en: fbarra@unsa.edu.pe
 
-
+#____________________________________________________________________________________________________________
 Mi experiencia en Python y Ciencia de Datos comienza en el año 2021, en donde pude desarrollar habilidades con diferentes herramientas. Es por ello que hoy en día almaceno mis trabajos y proyectos de investigación con este lenguaje en el presente laboratorio, para así expandir mi conocimiento, motivar a las personas que van iniciando, y aprendamos juntos. 
-  
-  
-  
+    
+#____________________________________________________________________________________________________________  
 
 <h3 align="left">Languages:</h3>
 
