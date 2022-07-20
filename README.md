@@ -1,12 +1,11 @@
-### 
+### Bienvenid@ 👋, 
 ____________________________________________________________________________
 
 <p><img align="right" src="https://media.giphy.com/media/eH4qxdqDul3ZCAXg6i/giphy.gif" width="340" heigth="340" alt="adam-pw"/></p>
 
 
 <p align="left"> 
-## Bienvenid@ 👋, 
-mi nombre es Fernando Barra, y soy un estudiante de la carrera de Ingenieria de Telecomunicaciones en la Universidad Nacional de San Agustin de Arequipa. Te doy la bienvenida a mi espacio personal.
+Mi nombre es Fernando Barra, y soy un estudiante de la carrera de Ingenieria de Telecomunicaciones en la Universidad Nacional de San Agustin de Arequipa. Te doy la bienvenida a mi espacio personal.
 
     - 📫 Contáctame en: fbarra@unsa.edu.pe
  
